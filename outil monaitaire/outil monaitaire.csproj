@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Mitah\OneDrive\Bureau\cours et projet\cad-usd-euro.cs" Link="cad-usd-euro.cs" />
+  </ItemGroup>
+
 </Project>
